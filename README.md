@@ -1,7 +1,6 @@
 <img width="250px" src="https://github.com/Collabwriting/Truthchain/assets/9627557/a70ccb1e-4fc1-4c12-a285-29d26585c4bd"/>
 
 # TruthchainJS: JavaScript Library for Truthchain
-TruthchainJS Logo
 
 **TruthchainJS** is a lightweight JavaScript library that provides convenient and easy-to-use methods for accessing the Truthchain platform. With TruthchainJS, developers can integrate Truthchain functionality into their JavaScript applications, allowing them to retrieve and verify data from the Truthchain.
 
